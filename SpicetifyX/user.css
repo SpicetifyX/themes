@@ -1,0 +1,120 @@
+.main-home-homeHeader {
+  background-image: linear-gradient(to bottom, var(--spice-secondary-var), var(--spice-main)) !important;
+  transition: none;
+  background-color: none !important;
+}
+
+.main-home-filterChipsSection {
+  background-image: none !important;
+  transition: none;
+  background-color: var(--spice-main) !important;
+}
+
+.IEulmRakQT_FgH43ov2a {
+  background-image: none !important;
+  transition: none;
+  background-color: var(--spice-main) !important;
+}
+
+.Root__globalNav {
+  background-color: var(--spice-sidebar);
+  margin: calc(var(--panel-gap) * -1);
+  padding: calc(var(--panel-gap));
+}
+
+.main-topBar-overlay {
+  background-color: var(--spice-main) !important;
+  margin-bottom: 3px;
+}
+
+.Q8TIE2Y2AX304EkuFSZh {
+  display: none !important;
+}
+
+.main-nowPlayingView-credits {
+  display: none !important;
+}
+
+.zwI4VFbLH0vCqJU4wyNg {
+  display: none !important;
+}
+
+.O55nnCHXJYX65yQlRhrV {
+  display: none !important;
+}
+
+.main-nowPlayingView-section {
+  background-color: var(--spice-sidebar) !important;
+}
+
+.main-contextMenu-menu {
+  background-color: var(--spice-sidebar) !important;
+}
+
+.main-entityHeader-backgroundColor {
+  background-image: linear-gradient(to bottom, var(--spice-secondary-var), var(--spice-secondary-var)) !important;
+  transition: none;
+  background-color: none !important;
+}
+
+.main-actionBarBackground-background {
+  background-image: linear-gradient(to bottom, var(--spice-secondary-var), var(--spice-main)) !important;
+  transition: none;
+  background-color: none !important;
+}
+
+.main-cardImage-imageWrapper {
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
+
+.playlist-playlist-actionBarBackground-background {
+  background-image: linear-gradient(to bottom, var(--spice-secondary-var), var(--spice-main)) !important;
+  transition: none;
+  background-color: none !important;
+}
+
+.main-topBar-background {
+  background-color: var(--spice-main) !important;
+}
+
+.xjf0Pj3YnoegOkJUpaPS {
+  display: none !important;
+}
+
+.DyIlapjoCthUuSOzmJGD {
+  padding-inline: 0px !important;
+}
+
+.main-nowPlayingView-contextItemInfo {
+  padding-top: 8px !important;
+}
+
+.wfJD_yK4h7xnpTmrh62U {
+  padding: 0px 10px 10px 10px !important;
+}
+
+.zAvxP9ntNk6SsomFXWUv {
+  gap: 0px !important;
+}
+
+.marketplace-grid {
+  --grid-gap: 12px !important;
+}
+
+.marketplace-grid {
+  --minimumColumnWidth: 220px !important
+;
+}
+
+.fYX4XCQz81A_L1WZ88uc {
+  padding-top: 10px !important;
+}
+
+.YSp1_r_DkcUfX67ULgfj {
+  padding-top: 10px !important;
+}
+
+.main-genericButton-button.main-genericButton-buttonActive {
+  color: var(--spice-text) !important;
+}
