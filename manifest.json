@@ -1,0 +1,12 @@
+[
+  {
+    "name": "SpicetifyX",
+    "description": "Official SpicetifyX Theme for Spotify",
+    "usercss": "SpicetifyX/user.css",
+    "preview": "SpicetifyX/assets/icon.png",
+    "schemes": "SpicetifyX/color.ini",
+    "include": ["SpicetifyX/theme.js"],
+    "authors": [{ "name": "Jeff53978", "url": "https://github.com/Jeff53978" }],
+    "tags": ["official"]
+  }
+]
