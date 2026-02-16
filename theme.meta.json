@@ -1,9 +1,7 @@
-[
-  {
-    "name": "SpicetifyX",
-    "description": "Official SpicetifyX Theme for Spotify",
-    "imageURL": "https://github.com/SpicetifyX/themes/blob/main/SpicetifyX/assets/icon.png?raw=true",
-    "authors": [{ "name": "Jeff53978", "url": "https://github.com/Jeff53978" }],
-    "tags": ["official"]
-  }
-]
+{
+  "name": "SpicetifyX",
+  "description": "Official SpicetifyX Theme for Spotify",
+  "imageURL": "https://github.com/SpicetifyX/themes/blob/main/SpicetifyX/assets/icon.png?raw=true",
+  "authors": [{ "name": "Jeff53978", "url": "https://github.com/Jeff53978" }],
+  "tags": ["official"]
+}
