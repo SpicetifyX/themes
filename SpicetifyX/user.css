@@ -1,7 +1,34 @@
 .main-home-homeHeader {
-  background-image: linear-gradient(to bottom, var(--spice-secondary-var), var(--spice-main)) !important;
+  background-image: linear-gradient(
+    to bottom,
+    var(--spice-secondary-var),
+    var(--spice-main)
+  ) !important;
   transition: none;
   background-color: none !important;
+  height: 396px;
+}
+
+.overview-card.hero {
+  background: linear-gradient(135deg, #a82c9b 0%, #b4114f 100%) !important;
+  color: #ffffff !important;
+}
+
+.period-tab {
+  color: rgb(255 255 255 / 60%) !important;
+}
+
+period-tab.active {
+  color: #ffffff !important;
+}
+
+.stats-page {
+  --background-tinted-base: #121418 !important;
+}
+
+.genre-bar-fill {
+  background: #c11d5b !important;
+  opacity: 35 !important;
 }
 
 .main-home-filterChipsSection {
@@ -52,13 +79,21 @@
 }
 
 .main-entityHeader-backgroundColor {
-  background-image: linear-gradient(to bottom, var(--spice-secondary-var), var(--spice-secondary-var)) !important;
+  background-image: linear-gradient(
+    to bottom,
+    var(--spice-secondary-var),
+    var(--spice-secondary-var)
+  ) !important;
   transition: none;
   background-color: none !important;
 }
 
 .main-actionBarBackground-background {
-  background-image: linear-gradient(to bottom, var(--spice-secondary-var), var(--spice-main)) !important;
+  background-image: linear-gradient(
+    to bottom,
+    var(--spice-secondary-var),
+    var(--spice-main)
+  ) !important;
   transition: none;
   background-color: none !important;
 }
@@ -69,7 +104,11 @@
 }
 
 .playlist-playlist-actionBarBackground-background {
-  background-image: linear-gradient(to bottom, var(--spice-secondary-var), var(--spice-main)) !important;
+  background-image: linear-gradient(
+    to bottom,
+    var(--spice-secondary-var),
+    var(--spice-main)
+  ) !important;
   transition: none;
   background-color: none !important;
 }
