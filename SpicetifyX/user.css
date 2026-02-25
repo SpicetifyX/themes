@@ -1,16 +1,91 @@
-.main-home-homeHeader {
-  background-image: linear-gradient(
-    to bottom,
-    var(--spice-secondary-var),
-    var(--spice-main)
-  ) !important;
-  transition: none;
-  background-color: none !important;
-  height: 396px;
+* {
+  --text-subdued: var(--spice-text-subdued);
+}
+
+span.e-91000-text.encore-text-body-small-bold.encore-internal-color-text-subdued {
+  color: var(--spice-text) !important;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: var(--spice-button);
+  border-radius: 15px;
+  transition: all 100ms ease-in-out;
+}
+
+.Z4mTguN7TeVFsLjJDenV {
+  padding-top: 0px !important;
+}
+
+a:not([data-encore-id]):focus,
+a:not([data-encore-id]):hover,
+a:not([data-encore-id])[data-context-menu-open="true"] {
+  text-decoration: none !important;
+}
+
+#main-view
+  > div.main-view-container
+  > div.main-view-container__scroll-node.mpdgC9UTkN5_fMm1pFiz
+  > div:nth-child(1)
+  > div
+  > main
+  > div
+  > div.main-home-filterChipsContainer
+  > div.MViMHJvcIZ6RxUXEeLSf.CEB3nzyniIFOx1yM1eYy.main-home-filterChipsSection {
+  background-color: var(--spice-button) !important;
+}
+
+span.e-91000-text.encore-text-body-small-bold.encore-internal-color-text-subdued:hover {
+  background-color: var(--spice-button-highlight);
+  color: var(--spice-text, 0.85) !important;
+}
+
+span.e-91000-baseline.e-91000-overflow-wrap-anywhere.e-91000-button-primary__inner.encore-bright-accent-set.e-91000-button-icon-only--large
+  > span.e-91000-button__icon-wrapper {
+  color: var(--spice-text) !important;
+}
+
+.onsie5c3fxySQ9zTLEyV.XKxjQQEVlm8kUnmpsvtP {
+  display: none !important;
+}
+
+.main-card-PlayButtonContainer {
+  -webkit-box-shadow: 0px 0px transparent !important;
+  box-shadow: 0px 0px transparent !important;
+}
+
+.main-topBar-background.vGDIBokngqjkJTPAA_Bl,
+.main-topBar-background.vGDIBokngqjkJTPAA_Bl.YvuRqbeaWUie8EdDmyBA,
+.main-topBar-overlay {
+  background-color: var(--background-highlight) !important;
+}
+
+.DWIabsKiPzMNV7HphphB
+  > .main-playButton-PlayButton
+  > button.e-91000-button-primary.e-91000-button {
+  background-color: var(--spice-button-highlight) !important;
+}
+
+span.e-91000-baseline.e-91000-overflow-wrap-anywhere.e-91000-button-primary__inner.encore-bright-accent-set.e-91000-button-icon-only--medium {
+  color: var(--spice-text) !important;
+}
+
+span.e-91000-baseline.e-91000-overflow-wrap-anywhere.e-91000-button-primary__inner.encore-bright-accent-set.e-91000-button-icon-only--large.BmbbhQfGuARvXxY6MWWF {
+  color: var(--spice-text) !important;
+}
+
+.view-homeShortcutsGrid-shortcut
+  .view-homeShortcutsGrid-PlayButtonContainer
+  .view-homeShortcutsGrid-playButton {
+  box-shadow: 0px 0px transparent !important;
+}
+
+*:focus {
+  outline-color: var(--spice-button-active) !important;
 }
 
 .overview-card.hero {
-  background: linear-gradient(135deg, #a82c9b 0%, #b4114f 100%) !important;
+  background: linear-gradient(135deg, #b223ba 0%, #b4114f 100%) !important;
   color: #ffffff !important;
 }
 
@@ -23,137 +98,66 @@ period-tab.active {
 }
 
 .stats-page {
-  --background-tinted-base: #121418 !important;
+  --background-tinted-base: var(--spice-main-elevated) !important;
 }
 
 .genre-bar-fill {
-  background: #c11d5b !important;
+  background: var(--spice-button-highlight) !important;
   opacity: 35 !important;
 }
 
-.main-home-filterChipsSection {
-  background-image: none !important;
-  transition: none;
-  background-color: var(--spice-main) !important;
+.footer-btn.primary {
+  background-color: var(--spice-button) !important;
+  color: var(--spice-text);
 }
 
-.IEulmRakQT_FgH43ov2a {
-  background-image: none !important;
-  transition: none;
-  background-color: var(--spice-main) !important;
+* {
+  --ls-accent: var(--spice-button) !important;
+  --ls-accent-hover: var(--spice-button-highlight) !important;
 }
 
-.Root__globalNav {
-  background-color: var(--spice-sidebar);
-  margin: calc(var(--panel-gap) * -1);
-  padding: calc(var(--panel-gap));
+.lastfm-input:focus {
+  border-color: var(--spice-button) !important;
 }
 
-.main-topBar-overlay {
-  background-color: var(--spice-main) !important;
-  margin-bottom: 3px;
+.footer-btn.primary:hover {
+  background-color: var(--spice-button-highlight) !important;
+  color: var(--spice-text);
 }
 
-.Q8TIE2Y2AX304EkuFSZh {
-  display: none !important;
+.heart-btn.liked {
+  color: var(--spice-button) !important;
 }
 
-.main-nowPlayingView-credits {
-  display: none !important;
+.stat-text .overview-value.green {
+  color: var(--spice-button) !important;
 }
 
-.zwI4VFbLH0vCqJU4wyNg {
-  display: none !important;
+.main-card-imageContainer > *:hover {
+  --background-highlight: var(--spice-button-highlight) !important;
 }
 
-.O55nnCHXJYX65yQlRhrV {
-  display: none !important;
+.e-91000-button-primary:hover .e-91000-button-primary__inner {
+  background-color: var(--spice-button-highlight) !important;
 }
 
-.main-nowPlayingView-section {
-  background-color: var(--spice-sidebar) !important;
-}
-
-.main-contextMenu-menu {
-  background-color: var(--spice-sidebar) !important;
-}
-
-.main-entityHeader-backgroundColor {
+.main-home-homeHeader {
+  background-color: var(--spice-button-active) !important;
+  height: 50% !important;
   background-image: linear-gradient(
-    to bottom,
-    var(--spice-secondary-var),
-    var(--spice-secondary-var)
+    rgba(var(--spice-rgb-shadow), 0.2) 0,
+    var(--background-base) 100%
   ) !important;
-  transition: none;
-  background-color: none !important;
 }
 
-.main-actionBarBackground-background {
-  background-image: linear-gradient(
-    to bottom,
-    var(--spice-secondary-var),
-    var(--spice-main)
-  ) !important;
-  transition: none;
-  background-color: none !important;
+.activity-bar.peak {
+  background-color: var(--spice-button) !important;
 }
 
-.main-cardImage-imageWrapper {
-  background-color: transparent !important;
-  box-shadow: none !important;
+.activity-peak strong {
+  color: var(--spice-button) !important;
 }
 
-.playlist-playlist-actionBarBackground-background {
-  background-image: linear-gradient(
-    to bottom,
-    var(--spice-secondary-var),
-    var(--spice-main)
-  ) !important;
-  transition: none;
-  background-color: none !important;
-}
-
-.main-topBar-background {
-  background-color: var(--spice-main) !important;
-}
-
-.xjf0Pj3YnoegOkJUpaPS {
-  display: none !important;
-}
-
-.DyIlapjoCthUuSOzmJGD {
-  padding-inline: 0px !important;
-}
-
-.main-nowPlayingView-contextItemInfo {
-  padding-top: 8px !important;
-}
-
-.wfJD_yK4h7xnpTmrh62U {
-  padding: 0px 10px 10px 10px !important;
-}
-
-.zAvxP9ntNk6SsomFXWUv {
-  gap: 0px !important;
-}
-
-.marketplace-grid {
-  --grid-gap: 12px !important;
-}
-
-.marketplace-grid {
-  --minimumColumnWidth: 220px !important
-;
-}
-
-.fYX4XCQz81A_L1WZ88uc {
-  padding-top: 10px !important;
-}
-
-.YSp1_r_DkcUfX67ULgfj {
-  padding-top: 10px !important;
-}
-
-.main-genericButton-button.main-genericButton-buttonActive {
-  color: var(--spice-text) !important;
+.activity-bar:hover {
+  background-color: var(--spice-button) !important;
 }
