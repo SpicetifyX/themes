@@ -6,7 +6,7 @@
     "preview": "SpicetifyX/assets/icon.png",
     "schemes": "SpicetifyX/color.ini",
     "readme": "README.md",
-    "include": ["https://raw.githubusercontent.com/SpicetifyX/themes/refs/heads/main/SpicetifyX/theme.js"],
+    "include": ["https://raw.githubusercontent.com/SpicetifyX/themes/main/SpicetifyX/theme.js"],
     "authors": [{ "name": "Jeff53978", "url": "https://github.com/Jeff53978" }],
     "tags": ["official"]
   }
