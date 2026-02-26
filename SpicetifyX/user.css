@@ -2,6 +2,15 @@
   --text-subdued: var(--spice-text-subdued);
 }
 
+.marketplace-grid {
+  grid-gap: 5px !important;
+  --grid-gap: 5px !important;
+}
+
+.marketplace-grid.main-gridContainer-gridContainer.main-gridContainer-fixedWidth {
+  grid-gap: 5px !important;
+}
+
 span.e-91000-text.encore-text-body-small-bold.encore-internal-color-text-subdued {
   color: var(--spice-text) !important;
   padding-left: 12px;
@@ -11,6 +20,10 @@ span.e-91000-text.encore-text-body-small-bold.encore-internal-color-text-subdued
   background-color: var(--spice-button);
   border-radius: 15px;
   transition: all 100ms ease-in-out;
+}
+
+.gmNQCzeK5b2wiebA87rg {
+  border-radius: 999px;
 }
 
 .Z4mTguN7TeVFsLjJDenV {
@@ -87,6 +100,7 @@ span.Type__TypeElement-sc-goli3j-0.TypeElement-type-canon {
 
 .ez6VSvyLd4r5M9qTylcA {
   background-color: var(--spice-highlight-elevated) !important;
+  color: var(--spice-text) !important;
 }
 
 .max-w-5xl {
@@ -171,10 +185,6 @@ button.encore-text-body-medium-bold.e-91000-button-primary.e-91000-button {
 
 .main-card-card {
   background-color: transparent !important;
-}
-
-.marketplace-grid {
-  grid-gap: 5px !important;
 }
 
 .main-card-card:hover {
