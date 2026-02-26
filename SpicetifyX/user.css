@@ -80,13 +80,139 @@ span.e-91000-baseline.e-91000-overflow-wrap-anywhere.e-91000-button-primary__inn
   box-shadow: 0px 0px transparent !important;
 }
 
+span.Type__TypeElement-sc-goli3j-0.TypeElement-type-canon {
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+.ez6VSvyLd4r5M9qTylcA {
+  background-color: var(--spice-highlight-elevated) !important;
+}
+
+.max-w-5xl {
+  max-width: 100% !important;
+}
+
+.stats-page {
+  padding: 1px 26px !important;
+  padding-top: 22px !important;
+}
+
+.pt-16 {
+  padding-top: calc(var(--spacing) * 6) !important;
+}
+
+main.hy5GSmgGlKpqnNN19mRv {
+  color: var(--spice-text) !important;
+}
+
 *:focus {
   outline-color: var(--spice-button-active) !important;
+}
+
+.marketplace-tabBar-headerItem
+  > a.marketplace-tabBar-headerItemLink.marketplace-tabBar-active {
+  background-color: rgba(255, 255, 255, 0.9) !important;
+}
+
+.marketplace-tabBar-headerItem {
+  background-color: rgba(255, 255, 255, 0.08);
+  border-radius: 999px;
+  font-size: small;
+}
+
+button.encore-text-body-medium-bold.e-91000-button-primary.e-91000-button {
+  color: var(--spice-text) !important;
+}
+
+.Root__now-playing-bar {
+  padding: 3px !important;
+}
+
+.marketplace-grid
+  .main-card-draggable
+  .main-card-cardMetadata
+  li.marketplace-card__tag[data-tag="external JS"],
+.marketplace-grid
+  .main-card-draggable
+  .main-card-cardMetadata
+  li.marketplace-card__tag[data-tag="archived"] {
+  background-color: var(--spice-button) !important;
+}
+
+.marketplace-tabBar-header {
+  align-items: center;
+  display: flex;
+  gap: 5px;
+}
+
+.recent-title,
+.recent-name,
+.stats-title,
+.activity-title,
+.top-list-title,
+.item-name {
+  color: var(--spice-text);
+}
+
+.main-cardImage-image,
+.main-card-imagePlaceholder {
+  border-radius: 6px;
+}
+
+.dF0K0jaEfxecrAYyZnVY.contentSpacing {
+  padding: 0px 29px 0px 29px;
+}
+
+.marketplace-header {
+  padding: 0px 12px 0px 12px;
+}
+
+.main-card-card {
+  background-color: transparent !important;
+}
+
+.marketplace-grid {
+  grid-gap: 0px !important;
+}
+
+.main-card-card:hover {
+  background-color: var(--spice-highlight-elevated) !important;
+}
+
+.marketplace-header {
+  position: initial;
+  margin-top: 64px;
+}
+
+.marketplace-card-desc {
+  margin: 5px 0px !important;
+}
+
+.marketplace-card-type-heading {
+  display: none !important;
 }
 
 .overview-card.hero {
   background: linear-gradient(135deg, #b223ba 0%, #b4114f 100%) !important;
   color: #ffffff !important;
+}
+
+.main-card-draggable {
+  gap: 10px !important;
+}
+
+.marketplace-tabBar-headerItemLink {
+  padding: 6px 12px;
+  width: fit-content;
+  display: flex;
+  justify-content: center;
+  margin: 0px;
+}
+
+.marketplace-tabBar-active {
+  border-radius: 999px;
+  color: #000000 !important;
 }
 
 .period-tab {
